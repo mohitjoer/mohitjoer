@@ -2,16 +2,13 @@
 
 ###
 
-<h1 align="center">About me</h1>
-
-###
 
 <p align="center">Hi, I’m Mohit Joe — a passionate full-stack developer and content creator behind CodeCraft with Jo. I specialize in building modern web apps using technologies like Next.js, Tailwind CSS, and MongoDB. With a strong interest in both UI/UX and backend logic, I love crafting seamless digital experiences and teaching others through my videos and Discord community. I’m also the founder of a growing freelance server with over 1,600 members, where developers connect, collaborate, and find opportunities. Beyond web development, I’m deeply interested in Artificial Intelligence and Machine Learning and actively exploring how they’re shaping the future of tech.</p>
 
 ###
 
 <div align="center">
-  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="52" height="40" alt="linkedin logo"  />
+  <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg"herf="https://www.linkedin.com/in/mohitjoe/" width="52" height="40" alt="linkedin logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/twitter/default.svg" width="52" height="40" alt="twitter logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="52" height="40" alt="discord logo"  />
   <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/youtube/default.svg" width="52" height="40" alt="youtube logo"  />
@@ -75,7 +72,4 @@
 
 ###
 
-<img src="https://raw.githubusercontent.com/mohitjoer/mohitjoer/output/snake.svg" alt="Snake animation" />
-
-###
 
