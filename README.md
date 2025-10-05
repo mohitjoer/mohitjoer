@@ -16,26 +16,6 @@
 
 ###
 
-<div align="center">
-  <a href="https://www.linkedin.com/in/mohitjoe/">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" width="120" height="40" alt="linkedin logo" />
-  </a>
-  <img width="12" />
-  <a href="https://twitter.com">
-    <img src="https://img.shields.io/badge/Twitter-1DA1F2?style=for-the-badge&logo=twitter&logoColor=white" width="120" height="40" alt="twitter logo" />
-  </a>
-  <img width="12" />
-  <a href="https://discord.com">
-    <img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" width="120" height="40" alt="discord logo" />
-  </a>
-  <img width="12" />
-  <a href="https://youtube.com">
-    <img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" width="120" height="40" alt="youtube logo" />
-  </a>
-</div>
-
-###
-
 <h1 align="center">💻 I code with</h1>
 
 ###
@@ -97,12 +77,6 @@
 ###
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=mohitjoer&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&sideLabels=38bdae&dates=38bdae" alt="GitHub Streak" />
-</div>
-
-###
-
-<div align="center">
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjoer&radius=16&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
@@ -114,16 +88,6 @@
 
 <div align="center">
   <img src="https://github-profile-trophy.vercel.app/?username=mohitjoer&theme=tokyonight&no-frame=true&no-bg=true&row=1&column=7" alt="trophy" />
-</div>
-
-###
-
-<h1 align="center">💡 Random Dev Quote</h1>
-
-###
-
-<div align="center">
-  <img src="https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight" alt="Random Dev Quote" />
 </div>
 
 ###
