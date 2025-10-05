@@ -97,7 +97,7 @@
 ###
 
 <div align="center">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=mohitjoer&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakLabel=70a5fd" alt="GitHub Streak" />
+  <img src="https://streak-stats.demolab.com/?user=mohitjoer&theme=tokyonight&hide_border=true&background=1a1b27&ring=70a5fd&fire=bf91f3&currStreakNum=70a5fd&sideNums=70a5fd&sideLabels=38bdae&dates=38bdae" alt="GitHub Streak" />
 </div>
 
 ###
