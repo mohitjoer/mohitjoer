@@ -10,7 +10,7 @@
 
 <img align="right" height="200" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" />
 
-<p align="center">Hi, I'm Mohit Joe — a passionate full-stack developer and content creator behind CodeCraft with Jo. I specialize in building modern web apps using technologies like Next.js, Tailwind CSS, and MongoDB. With a strong interest in both UI/UX and backend logic, I love crafting seamless digital experiences and teaching others through my videos and Discord community. I'm also the founder of a growing freelance server with over 3,000 members, where developers connect, collaborate, and find opportunities. Beyond web development, I'm deeply interested in Artificial Intelligence and Machine Learning and actively exploring how they're shaping the future of tech.</p>
+<p align="center">Hi, I'm Mohit Joe — a passionate full-stack developer and content creator behind CodeCraft with Jo. I specialize in building modern web apps using technologies like Next.js, Tailwind CSS, and MongoDB. With a strong interest in both UI/UX and backend logic, I love crafting seamless digital experiences and teaching others through my videos and Discord community. I'm also the founder of a growing freelance server with over 3,500 members, where developers connect, collaborate, and find opportunities. Beyond web development, I'm deeply interested in Artificial Intelligence and Machine Learning and actively exploring how they're shaping the future of tech.</p>
 
 <br clear="right"/>
 
