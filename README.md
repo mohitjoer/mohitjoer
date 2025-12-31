@@ -49,6 +49,10 @@
   <img width="12" />
   <img src="https://cdn.simpleicons.org/vercel/000000" height="50" alt="vercel logo"  />
   <img width="12" />
+  <img src="https://cdn.simpleicons.org/langchain/1C3C3C" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
+  <img src="https://cdn.simpleicons.org/langgraph/1C3C3C" height="50" alt="tailwindcss logo"  />
+  <img width="12" />
   <img src="https://cdn.simpleicons.org/tailwindcss/06B6D4" height="50" alt="tailwindcss logo"  />
   <img width="12" />
   <img src="https://cdn.simpleicons.org/bootstrap/7952B3" height="50" alt="bootstrap logo"  />
