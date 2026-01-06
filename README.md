@@ -73,7 +73,7 @@
 ###
 
 <div align="center">
-  <img src="[https://github-readme-stats.vercel.app/api?username=mohitjoer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&order=1](https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=dark&hide_border=false)" height="180" alt="stats graph"  />
+  <img src="https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=dark&hide_border=false" height="180" alt="stats graph"  />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&order=2" height="180" alt="languages graph"  />
 </div>
