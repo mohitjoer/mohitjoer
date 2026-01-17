@@ -80,12 +80,6 @@
 
 ###
 
-<div align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjoer&radius=16&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&order=5" height="300" alt="activity-graph graph"  />
-</div>
-
-###
-
 [![An image of @mohitjoer's Holopin badges, which is a link to view their full Holopin profile](https://holopin.me/mohitjoer)](https://holopin.io/@mohitjoer)
 ###
 
