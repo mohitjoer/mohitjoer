@@ -113,37 +113,6 @@ const mohitJoe = {
 
 <div align="center">
 
-## 🎯 What I'm Currently Working On
-
-```mermaid
-graph LR
-    A[🎥 Content Creation] --> B[CodeCraft with Jo]
-    C[💻 Development] --> D[Next.js Projects]
-    E[🤖 AI/ML] --> F[LangChain Apps]
-    G[👥 Community] --> H[Discord Server]
-    
-    style A fill:#6366F1
-    style C fill:#bf91f3
-    style E fill:#38bdae
-    style G fill:#70a5fd
-```
-
-</div>
-
----
-
-<div align="center">
-
-## 💡 Quote of the Day
-
-![Quote](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=tokyonight)
-
-</div>
-
----
-
-<div align="center">
-
 ## 🤝 Connect With Me
 
 <p>
