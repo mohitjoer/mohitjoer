@@ -28,14 +28,14 @@ const mohitJoe = {
     title: "Full-Stack Developer & Content Creator",
     location: "India 🇮🇳",
     workingOn: "Building scalable web applications",
-    learning: ["AI/ML", "Cloud Architecture", "System Design"],
+    learning: ["AI/ML", "Web-Developer", "Freelancer"],
     communities: {
         youtube: "CodeCraft with Jo",
         discord: "3,500+ members",
         role: "Founder & Community Leader"
     },
-    interests: ["Web Development", "AI", "Teaching", "Open Source"],
-    askMeAbout: ["Next.js", "React", "MongoDB", "UI/UX"],
+    interests: ["Web Development", "AI", "ML", "Open Source"],
+    askMeAbout: ["Next.js", "React", "MongoDB", "LangChan & LangGraph"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
