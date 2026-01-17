@@ -4,7 +4,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Joe%20.R&fontSize=42&fontColor=fff&animation=twinkling&fontAlignY=32"/>
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Content+Creator+%40+CodeCraft+with+Jo+%F0%9F%8E%A5;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Community+Builder+%7C+3.5K%2B+Members+%F0%9F%8C%9F;Building+the+Future%2C+One+Line+at+a+Time+%F0%9F%92%BB" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=650&height=100&lines=Full-Stack+Developer+%F0%9F%9A%80;Content+Creator+%40+CodeCraft+with+Jo+%F0%9F%8E%A5;AI+%26+ML+Enthusiast+%F0%9F%A4%96;Community+Builder+%7C+3.5K%2B+Members+%F0%9F%8C%9F;" alt="Typing SVG" /></a>
 
 <br/>
 
