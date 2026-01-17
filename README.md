@@ -73,9 +73,16 @@
 ###
 
 <div align="center">
+  <img src="[https://github-readme-stats.vercel.app/api?username=mohitjoer&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=tokyonight&locale=en&hide_border=true&bg_color=1a1b27&title_color=70a5fd&icon_color=bf91f3&text_color=38bdae&order=1](https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=dark&hide_border=false)" height="180" alt="stats graph"  />
   <img src="https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=dark&hide_border=false" height="180" alt="stats graph"  />
   <img width="12" />
   <img src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=6&theme=tokyonight&hide_border=true&bg_color=1a1b27&title_color=70a5fd&text_color=38bdae&order=2" height="180" alt="languages graph"  />
+</div>
+
+###
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjoer&radius=16&theme=tokyo-night&area=true&hide_border=true&bg_color=1a1b27&color=70a5fd&line=bf91f3&point=38bdae&order=5" height="300" alt="activity-graph graph"  />
 </div>
 
 ###
@@ -85,11 +92,11 @@
 
 <div align="center">
   <h2>💬 Let's Build Something Amazing Together!</h2>
-  
+
   <img src="https://komarev.com/ghpvc/?username=mohitjoer&color=blueviolet&style=for-the-badge" alt="Profile Views" />
-  
+
   <p><strong>Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!</strong></p>
-  
+
   <img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
 </div>
 
