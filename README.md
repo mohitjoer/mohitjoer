@@ -87,9 +87,7 @@ const mohitJoe = {
 ## 📊 GitHub Analytics
 
 <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitjoer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=bf91f3&text_color=C9D1D9&locale=en" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats. vercel.app/?user=mohitjoer&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=bf91f3&currStreakLabel=6366F1" alt="GitHub Streak" />
-
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<img width="49%" src="https://nirzak-streak-stats. vercel.app/?user=mohitjoer&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=bf91f3&currStreakLabel=6366F1" alt="GitHub Streak" /><img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=bf91f3&currStreakLabel=6366F1" alt="GitHub Streak" /><img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
 
 </div>
 
