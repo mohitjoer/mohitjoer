@@ -92,9 +92,6 @@ const mohitJoe = {
 <img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8&card_width=400" alt="Top Languages" />
 <img width="49%" src="https://github-contributor-stats.vercel.app/api?username=mohitjoer&limit=5&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&combine_all_yearly_contributions=true" alt="Contribution Stats" />
 
-<!-- Activity Graph -->
-<img width="98%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjoer&custom_title=Contribution%20Graph&bg_color=0D1117&color=6366F1&line=bf91f3&point=C9D1D9&area=true&hide_border=true&area_color=6366F1" alt="Contribution Graph" />
-
 </div>
 
 ---
