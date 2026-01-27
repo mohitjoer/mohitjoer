@@ -27,7 +27,7 @@
 const mohitJoe = {
     title: "Full-Stack Developer & Content Creator",
     location: "India 🇮🇳",
-    workingOn: "Building scalable web applications",
+    workingOn: "Building scalable Web Applications and AI Agents",
     learning: ["AI/ML", "Web-Developer", "Freelancer"],
     communities: {
         youtube: "CodeCraft with Jo",
