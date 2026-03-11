@@ -31,7 +31,7 @@ const mohitJoe = {
     learning: ["AI/ML", "Web-Developer"],
     communities: {
         youtube: "CodeCraft with Jo",
-        discord: "3,800+ members",
+        discord: "4,000+ members",
         role: "Founder & Community Leader"
     },
     interests: ["Web Development", "AI", "ML", "Open Source"],
