@@ -25,7 +25,7 @@
 
 ```typescript
 const mohitJoe = {
-    title: "Full-Stack Developer & Content Creator",
+    title: "Full-Stack Gen AI Developer & Content Creator",
     location: "India 🇮🇳",
     workingOn: "Building scalable Web Applications and AI Agents",
     learning: ["AI/ML", "Web-Developer"],
