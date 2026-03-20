@@ -35,7 +35,7 @@ const mohitJoe = {
         role: "Founder & Community Leader"
     },
     interests: ["Web Development", "AI", "ML", "Open Source"],
-    askMeAbout: ["Next.js", "React", "MongoDB","LangChan & LangGraph"],
+    askMeAbout: ["Next.js", "React", "MongoDB","LangChan","LiveKit"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
