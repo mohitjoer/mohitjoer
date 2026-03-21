@@ -11,7 +11,7 @@
 <!-- Social Badges -->
 <p align="center">
   <img src="https://komarev.com/ghpvc/?username=mohitjoer&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/followers/mohitjoer?label=Followers&style=for-the-badge&color=blue" alt="followers" />
+
   <img src="https://img.shields.io/github/stars/mohitjoer?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
 </p>
 
