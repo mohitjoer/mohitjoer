@@ -27,6 +27,7 @@
 const mohitJoe = {
     title: "Full-Stack Gen AI Developer & Content Creator",
     location: "India 🇮🇳",
+    Working At: Vaiu AI 
     workingOn: "Building scalable Web Applications and AI Agents",
     learning: ["AI/ML", "Web-Developer"],
     communities: {
