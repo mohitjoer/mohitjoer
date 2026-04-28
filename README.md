@@ -31,7 +31,6 @@ const mohitJoe = {
     building: "Intelligent voice agents & scalable AI-powered systems",
     communities: {
         freelanceBase: "4200+ members on Discord",
-       
         youtube: "CodeCraft with Jo",
         role: "Founder & Community Leader"
     },
@@ -45,112 +44,6 @@ const mohitJoe = {
 ```
 
 <br clear="right"/>
-
----
-
-<div align="center">
-
-## 💼 Experience
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
-
-</div>
-
-<table>
-  <tr>
-    <td width="70" align="center">
-      <img src="https://img.shields.io/badge/🤖-6366F1?style=for-the-badge&logoColor=white" alt="AI" />
-    </td>
-    <td>
-      <h3>Full Stack Gen AI Engineer — <a href="https://vaiu.ai">VaiU AI</a></h3>
-      <img src="https://img.shields.io/badge/Jan_2025–Present-6366F1?style=flat-square&labelColor=0D1117" alt="Duration" />
-      <img src="https://img.shields.io/badge/Full_Time-00C853?style=flat-square&labelColor=0D1117" alt="Type" />
-      <br/><br/>
-      <blockquote>Building intelligent voice agents and automation systems that push the boundaries of conversational AI.</blockquote>
-      <img src="https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" alt="FastAPI" />
-      <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=flat-square&logo=livekit&logoColor=white" alt="LiveKit" />
-      <img src="https://img.shields.io/badge/Next.js-000?style=flat-square&logo=nextdotjs&logoColor=white" alt="Next.js" />
-      <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=flat-square&logo=langchain&logoColor=white" alt="LangChain" />
-      <img src="https://img.shields.io/badge/Python-FFD43B?style=flat-square&logo=python&logoColor=blue" alt="Python" />
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header" width="100%" /></td></tr>
-  <tr>
-    <td width="70" align="center">
-      <img src="https://img.shields.io/badge/💻-bf91f3?style=for-the-badge&logoColor=white" alt="Dev" />
-    </td>
-    <td>
-      <h3>Freelance Developer</h3>
-      <img src="https://img.shields.io/badge/2023–Present-bf91f3?style=flat-square&labelColor=0D1117" alt="Duration" />
-      <img src="https://img.shields.io/badge/Self_Employed-FFB300?style=flat-square&labelColor=0D1117" alt="Type" />
-      <br/><br/>
-      <blockquote>Delivering end-to-end web solutions for clients globally — modern frontends, full-stack applications, and community-driven platforms.</blockquote>
-      <img src="https://img.shields.io/badge/React-20232A?style=flat-square&logo=react&logoColor=61DAFB" alt="React" />
-      <img src="https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white" alt="Node.js" />
-      <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=flat-square&logo=mongodb&logoColor=white" alt="MongoDB" />
-      <img src="https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white" alt="TypeScript" />
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header" width="100%" /></td></tr>
-  <tr>
-    <td width="70" align="center">
-      <img src="https://img.shields.io/badge/🌐-38B2AC?style=for-the-badge&logoColor=white" alt="Community" />
-    </td>
-    <td>
-      <h3>Community Founder & Lead — <a href="https://discord.gg/68ncjWAsaW">FreeLanceBase</a></h3>
-      <img src="https://img.shields.io/badge/2023–Present-38B2AC?style=flat-square&labelColor=0D1117" alt="Duration" />
-      <img src="https://img.shields.io/badge/4200+_Members-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Members" />
-      <br/><br/>
-      <blockquote>Founded and scaled a thriving Discord community for freelancers — a centralized hub for job opportunities, mentorship, and resource sharing.</blockquote>
-      <img src="https://img.shields.io/badge/Discord.js-5865F2?style=flat-square&logo=discord&logoColor=white" alt="Discord" />
-      <img src="https://img.shields.io/badge/Community_Building-FF6B6B?style=flat-square&labelColor=0D1117" alt="Community" />
-      <img src="https://img.shields.io/badge/Mentorship-6366F1?style=flat-square&labelColor=0D1117" alt="Mentorship" />
-    </td>
-  </tr>
-</table>
-
----
-
-<div align="center">
-
-## 🏆 Hackathon Victories
-
-<img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=2&section=header" width="100%" />
-
-</div>
-
-<table>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/🥈_2nd-FFD700?style=for-the-badge&labelColor=0D1117" alt="2nd Place" />
-      <br/>
-      <img src="https://img.shields.io/badge/MLH-E73427?style=flat-square&logo=majorleaguehacking&logoColor=white" alt="MLH" />
-    </td>
-    <td>
-      <h3>MLH Hack Days Bengaluru 2025</h3>
-      <img src="https://img.shields.io/badge/Major_League_Hacking-E73427?style=flat-square&labelColor=0D1117" alt="MLH" />
-      <img src="https://img.shields.io/badge/Google_Gemini-4285F4?style=flat-square&logo=google&logoColor=white" alt="Google" />
-      <img src="https://img.shields.io/badge/Polaris_School_of_Tech-8B5CF6?style=flat-square&labelColor=0D1117" alt="Polaris" />
-      <br/><br/>
-      <blockquote>Won Second Prize after an intense 12-hour sprint of ideation and building. A true team effort — from brainstorming to shipping a working prototype under pressure. 🚀</blockquote>
-    </td>
-  </tr>
-  <tr><td colspan="2"><img src="https://capsule-render.vercel.app/api?type=rect&color=gradient&customColorList=6,11,20&height=1&section=header" width="100%" /></td></tr>
-  <tr>
-    <td align="center" width="100">
-      <img src="https://img.shields.io/badge/🥈_2nd-FFD700?style=for-the-badge&labelColor=0D1117" alt="2nd Place" />
-      <br/>
-      <img src="https://img.shields.io/badge/JEFW-6366F1?style=flat-square&labelColor=0D1117" alt="JEFW" />
-    </td>
-    <td>
-      <h3>Glitch Pitch — JEFW 2025</h3>
-      <img src="https://img.shields.io/badge/JAIN_Entrepreneurship_Festival_Week-6366F1?style=flat-square&labelColor=0D1117" alt="JEFW" />
-      <img src="https://img.shields.io/badge/Startup_Pitch-FF6B35?style=flat-square&labelColor=0D1117" alt="Pitch" />
-      <br/><br/>
-      <blockquote>Secured runner-up pitching <b>Nullence AI</b> — an AI-driven collaborative project management platform. Competed against multiple startup ideas, showcasing real-world impact and technical depth. 🎯</blockquote>
-    </td>
-  </tr>
-</table>
 
 ---
 
