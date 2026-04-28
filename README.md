@@ -78,7 +78,7 @@ const mohitJoe = {
 
 ### 🗄️ Databases
 <p>
-  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" alt="Databases" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql,supabase&perline=6" alt="Databases" />
 </p>
 
 </td>
