@@ -1,22 +1,30 @@
 <div align="center">
 
-<!-- Header Banner -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=180&section=header&text=Mohit%20Joe%20Raja&fontSize=42&fontColor=fff&animation=twinkling" alt="Header" />
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    HEADER SECTION                      -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=200&section=header&text=Mohit%20Joe%20Raja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Gen%20AI%20Engineer%20%7C%20Builder%20%7C%20Creator&descSize=16&descAlignY=55&descColor=c4b5fd" alt="Header" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&duration=3000&pause=1000&color=6366F1&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=70&lines=Full+Stack+Gen+AI+Engineer+%F0%9F%9A%80;Founder+of+FreeLanceBase+%F0%9F%A4%9D;Hackathon+Runner-Up+%F0%9F%8F%86;Content+Creator+%F0%9F%93%B9;BCA+AI+%26+ML+Student+%F0%9F%8E%93" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%E2%9A%A1+Building+AI-Powered+Products;%F0%9F%8C%8D+Founder+of+FreeLanceBase+%284200%2B+Members%29;%F0%9F%8F%86+Hackathon+Runner-Up+%40+MLH+%26+JEFW;%F0%9F%8E%AC+Content+Creator+%40+CodeCraft+with+Jo;%F0%9F%8E%93+BCA+AI+%26+ML+%40+Jain+University" alt="Typing SVG" /></a>
 
 <br/>
 
-<!-- Social Badges -->
-<p align="center">
-  <img src="https://komarev.com/ghpvc/?username=mohitjoer&label=Profile%20Views&color=blueviolet&style=for-the-badge" alt="Profile views" />
-  <img src="https://img.shields.io/github/stars/mohitjoer?label=Stars&style=for-the-badge&color=yellow" alt="stars" />
+<!-- Profile Badges -->
+<p>
+  <a href="https://github.com/mohitjoer"><img src="https://komarev.com/ghpvc/?username=mohitjoer&label=Profile+Views&color=6366f1&style=flat-square" alt="Profile views" /></a>
+  &nbsp;
+  <a href="https://github.com/mohitjoer?tab=followers"><img src="https://img.shields.io/github/followers/mohitjoer?label=Followers&style=flat-square&color=a855f7&labelColor=1a1b27" alt="followers" /></a>
+  &nbsp;
+  <a href="https://github.com/mohitjoer"><img src="https://img.shields.io/github/stars/mohitjoer?label=Stars&style=flat-square&color=f59e0b&labelColor=1a1b27" alt="stars" /></a>
 </p>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    ABOUT ME                            -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <img align="right" height="250" src="https://user-images.githubusercontent.com/74038190/229223263-cf2e4b07-2615-4f87-9c38-e37600f8381a.gif" alt="Coding animation" />
 
@@ -45,112 +53,137 @@ const mohitJoe = {
 
 <br clear="right"/>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    TECH STACK                          -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🛠️ Tech Arsenal
+## <img src="https://media2.giphy.com/media/QssGEmpkyEOhBCb7e1/giphy.gif?cid=ecf05e47a0n3gi1bfqntqmob8g9aid1oyj2wr3ds3mg700bl&rid=giphy.gif" width="24"> Tech Stack
 
-### **Languages**
+<table>
+<tr>
+<td width="50%" valign="top">
+
+### 🔤 Languages
 <p>
-  <img src="https://img.shields.io/badge/Python-FFD43B?style=for-the-badge&logo=python&logoColor=blue" alt="Python" />
-  <img src="https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white" alt="TypeScript" />
-  <img src="https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black" alt="JavaScript" />
-  <img src="https://img.shields.io/badge/Java-ED8B00?style=for-the-badge&logo=openjdk&logoColor=white" alt="Java" />
-  <img src="https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white" alt="HTML5" />
-  <img src="https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white" alt="CSS3" />
-  <img src="https://img.shields.io/badge/YAML-CB171E?style=for-the-badge&logo=yaml&logoColor=white" alt="YAML" />
+  <img src="https://skillicons.dev/icons?i=python,typescript,javascript,java,html,css&perline=6" alt="Languages" />
 </p>
 
-### **Frontend**
+### 🎨 Frontend
 <p>
-  <img src="https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB" alt="React" />
-  <img src="https://img.shields.io/badge/Next.js-000000?style=for-the-badge&logo=nextdotjs&logoColor=white" alt="Next.js" />
-  <img src="https://img.shields.io/badge/Tailwind_CSS-38B2AC?style=for-the-badge&logo=tailwind-css&logoColor=white" alt="Tailwind" />
-  <img src="https://img.shields.io/badge/Redux-593D88?style=for-the-badge&logo=redux&logoColor=white" alt="Redux" />
-  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
-  <img src="https://img.shields.io/badge/GSAP-88CE02?style=for-the-badge&logo=greensock&logoColor=black" alt="GSAP" />
-  <img src="https://img.shields.io/badge/EJS-B4CA65?style=for-the-badge&logo=ejs&logoColor=black" alt="EJS" />
+  <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=6" alt="Frontend" />
 </p>
 
-### **Backend**
+### 🗄️ Databases
 <p>
-  <img src="https://img.shields.io/badge/Node.js-339933?style=for-the-badge&logo=nodedotjs&logoColor=white" alt="Node.js" />
-  <img src="https://img.shields.io/badge/Express.js-000000?style=for-the-badge&logo=express&logoColor=white" alt="Express" />
-  <img src="https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white" alt="FastAPI" />
-  <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=flask&logoColor=white" alt="Flask" />
-  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://skillicons.dev/icons?i=mongodb,mysql&perline=6" alt="Databases" />
 </p>
 
-### **Databases**
+</td>
+<td width="50%" valign="top">
+
+### ⚙️ Backend
 <p>
-  <img src="https://img.shields.io/badge/MongoDB-4EA94B?style=for-the-badge&logo=mongodb&logoColor=white" alt="MongoDB" />
-  <img src="https://img.shields.io/badge/MySQL-005C84?style=for-the-badge&logo=mysql&logoColor=white" alt="MySQL" />
+  <img src="https://skillicons.dev/icons?i=nodejs,express,fastapi,flask&perline=6" alt="Backend" />
 </p>
 
-### **AI & Tools**
+### 🤖 AI & Real-time
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
   <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
-  <img src="https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker&logoColor=white" alt="Docker" />
-  <img src="https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions&logoColor=white" alt="GitHub Actions" />
-  <img src="https://img.shields.io/badge/Vercel-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Vercel" />
-  <img src="https://img.shields.io/badge/Cloudflare-F38020?style=for-the-badge&logo=cloudflare&logoColor=white" alt="Cloudflare" />
-  <img src="https://img.shields.io/badge/Render-46E3B7?style=for-the-badge&logo=render&logoColor=black" alt="Render" />
-  <img src="https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white" alt="Postman" />
-  <img src="https://img.shields.io/badge/VS_Code-007ACC?style=for-the-badge&logo=visual-studio-code&logoColor=white" alt="VS Code" />
-  <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white" alt="Git" />
+  <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
 </p>
+
+### 🛠️ DevOps & Tools
+<p>
+  <img src="https://skillicons.dev/icons?i=docker,git,github,vscode,vercel,cloudflare,postman&perline=7" alt="Tools" />
+</p>
+
+</td>
+</tr>
+</table>
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    GITHUB ANALYTICS                    -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
 ## 📊 GitHub Analytics
 
-<img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitjoer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&icon_color=bf91f3&text_color=C9D1D9&locale=en" alt="GitHub Stats" />
-<img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=tokyonight&hide_border=true&background=0D1117&ring=6366F1&fire=bf91f3&currStreakLabel=6366F1" alt="GitHub Streak" />
-<img width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=6366F1&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+<p>
+  <img width="49%" src="https://github-readme-stats.vercel.app/api?username=mohitjoer&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&icon_color=6366f1&text_color=C9D1D9&ring_color=a855f7" alt="GitHub Stats" />
+  <img width="49%" src="https://nirzak-streak-stats.vercel.app/?user=mohitjoer&theme=tokyonight&hide_border=true&background=0D1117&ring=a855f7&fire=f59e0b&currStreakLabel=a855f7&sideLabels=6366f1" alt="GitHub Streak" />
+</p>
+
+<img width="55%" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohitjoer&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=a855f7&text_color=C9D1D9&langs_count=8" alt="Top Languages" />
+
+<br/><br/>
+
+<img width="90%" src="https://github-readme-activity-graph.vercel.app/graph?username=mohitjoer&bg_color=0d1117&color=a855f7&line=6366f1&point=f59e0b&area=true&area_color=6366f1&hide_border=true" alt="Contribution Graph" />
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                   ACHIEVEMENTS                         -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🏆 Achievements & Badges
+## 🏆 Achievements
 
-[![trophy](https://github-profile-trophy.vercel.app/?username=mohitjoer&theme=tokyonight&no-frame=true&no-bg=true&column=7&margin-w=15&margin-h=15)](https://github.com/ryo-ma/github-profile-trophy)
+<img src="https://github-profile-trophy.vercel.app/?username=mohitjoer&theme=discord&no-frame=true&no-bg=true&column=7&margin-w=10&margin-h=10" alt="Trophies" />
 
-[![An image of @mohitjoer's Holopin badges](https://holopin.me/mohitjoer)](https://holopin.io/@mohitjoer)
+<br/>
+
+[![Holopin Badges](https://holopin.me/mohitjoer)](https://holopin.io/@mohitjoer)
 
 </div>
 
----
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    SNAKE ANIMATION                     -->
+<!-- ═══════════════════════════════════════════════════════ -->
 
 <div align="center">
 
-## 🤝 Connect With Me
+<picture>
+  <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/mohitjoer/mohitjoer/output/github-snake-dark.svg" />
+  <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/mohitjoer/mohitjoer/output/github-snake.svg" />
+  <img alt="github-snake" src="https://raw.githubusercontent.com/mohitjoer/mohitjoer/output/github-snake-dark.svg" width="100%" />
+</picture>
+
+</div>
+
+<!-- ═══════════════════════════════════════════════════════ -->
+<!--                    CONNECT                             -->
+<!-- ═══════════════════════════════════════════════════════ -->
+
+<div align="center">
+
+## 🌐 Let's Connect
 
 <p>
-  <a href="https://mohitjoe.xyz"><img src="https://img.shields.io/badge/Portfolio-6366F1?style=for-the-badge&logo=googlechrome&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://github.com/mohitjoer"><img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
-  <a href="https://www.linkedin.com/in/mohitjoe/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <a href="mailto:mohitjoe.r@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="https://mohitjoe.xyz"><img src="https://img.shields.io/badge/🌐_Portfolio-6366f1?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://github.com/mohitjoer"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" /></a>
+  <a href="https://www.linkedin.com/in/mohitjoe/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="mailto:mohitjoe.r@gmail.com"><img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=gmail&logoColor=white" alt="Email" /></a>
   <a href="https://youtube.com/@codecraftwithjo"><img src="https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white" alt="YouTube" /></a>
   <a href="https://discord.gg/68ncjWAsaW"><img src="https://img.shields.io/badge/Discord-5865F2?style=for-the-badge&logo=discord&logoColor=white" alt="Discord" /></a>
   <a href="https://dev.to/rmohitjoe"><img src="https://img.shields.io/badge/Dev.to-0A0A0A?style=for-the-badge&logo=devdotto&logoColor=white" alt="Dev.to" /></a>
 </p>
 
-### 💬 Let's Build Something Amazing Together!
+<br/>
 
-<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="700">
+<img src="https://user-images.githubusercontent.com/74038190/212284100-561aa473-3905-4a80-b561-0d28506553ee.gif" width="600">
 
-**Thanks for visiting! Don't forget to ⭐ some repositories if you find them interesting!**
+<br/>
+
+**⭐ If you find my work interesting, consider giving a star!**
 
 </div>
 
 <!-- Footer Wave -->
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=6,11,20&height=120&section=footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:a855f7,50:6366f1,100:0d1117&height=120&section=footer"/>
