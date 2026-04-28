@@ -73,6 +73,7 @@ const mohitJoe = {
 ### 🎨 Frontend
 <p>
   <img src="https://skillicons.dev/icons?i=react,nextjs,tailwind,redux&perline=6" alt="Frontend" />
+  <img src="https://img.shields.io/badge/Zustand-443E38?style=for-the-badge&logo=react&logoColor=white" alt="Zustand" />
 </p>
 
 ### 🗄️ Databases
@@ -91,8 +92,12 @@ const mohitJoe = {
 ### 🤖 AI & Real-time
 <p>
   <img src="https://img.shields.io/badge/LangChain-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangChain" />
+  <img src="https://img.shields.io/badge/LangGraph-1C3C3C?style=for-the-badge&logo=langchain&logoColor=white" alt="LangGraph" />
   <img src="https://img.shields.io/badge/LiveKit-FF6B35?style=for-the-badge&logo=livekit&logoColor=white" alt="LiveKit" />
   <img src="https://img.shields.io/badge/Socket.io-010101?style=for-the-badge&logo=socketdotio&logoColor=white" alt="Socket.io" />
+  <img src="https://img.shields.io/badge/Google%20AI%20Studio-4285F4?style=for-the-badge&logo=google&logoColor=white" alt="Google AI Studio" />
+  <img src="https://img.shields.io/badge/AWS-232F3E?style=for-the-badge&logo=amazonwebservices&logoColor=white" alt="AWS" />
+  <img src="https://img.shields.io/badge/Azure-0078D4?style=for-the-badge&logo=microsoftazure&logoColor=white" alt="Azure" />
 </p>
 
 ### 🛠️ DevOps & Tools
