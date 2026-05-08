@@ -7,7 +7,7 @@
 <img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,50:6366f1,100:a855f7&height=200&section=header&text=Mohit%20Joe%20Raja&fontSize=45&fontColor=ffffff&animation=fadeIn&fontAlignY=35&desc=Full%20Stack%20Gen%20AI%20Engineer%20%7C%20Builder%20%7C%20Creator&descSize=16&descAlignY=55&descColor=c4b5fd" alt="Header" />
 
 <!-- Animated Typing -->
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%E2%9A%A1+Building+AI-Powered+Products;%F0%9F%8C%8D+Founder+of+FreeLanceBase+%284200%2B+Members%29;%F0%9F%8F%86+Hackathon+Runner-Up+%40+MLH+%26+JEFW;%F0%9F%8E%AC+Content+Creator+%40+CodeCraft+with+Jo;%F0%9F%8E%93+BCA+AI+%26+ML+%40+Jain+University" alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=600&size=24&duration=3000&pause=1000&color=A855F7&center=true&vCenter=true&multiline=false&repeat=true&width=700&height=60&lines=%E2%9A%A1+Building+AI-Powered+Products;%F0%9F%8C%8D+Founder+of+FreeLanceBase+%284500%2B+Members%29;%F0%9F%8F%86+Hackathon+Runner-Up+%40+MLH+%26+JEFW;%F0%9F%8E%93+BCA+AI+%26+ML+%40+Jain+University" alt="Typing SVG" /></a>
 
 <br/>
 
