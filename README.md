@@ -46,7 +46,8 @@ const mohitJoe = {
         "🥈 2nd Place — MLH Hack Days Bengaluru 2025",
         "🥈 2nd Place — JEFW 2025 Glitch Pitch"
     ],
-    askMeAbout: ["Next.js", "React", "FastAPI", "LiveKit", "LangChain", "MongoDB"],
+    askMeAbout: ["Next.js", "React", "FastAPI",
+                  "LiveKit", "LangChain", "MongoDB"],
     funFact: "I turn coffee into code ☕ → 💻"
 };
 ```
