@@ -32,7 +32,7 @@
 
 ```typescript
 const mohitJoe = {
-    title: "Full Stack Gen AI Engineer",
+    title: "Full-Stack & Applied AI Engineer",
     location: "Bengaluru, IN",
     education: "BCA in AI & ML @ Jain University (2025–2028)",
     workingAt: "VaiU AI",
